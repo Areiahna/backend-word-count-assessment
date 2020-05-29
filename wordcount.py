@@ -25,9 +25,9 @@ should return a dictionary with words as keys, and their counts as values.
 
 # Your name, plus anyone who helped you with this assignment
 # Give credit where credit is due.
-__author__ = "Areiahna, Thursday May 28 demo with facilitator Doug.E"
-
 import sys
+__author__ = "Areiahna, Thursday May 28 demo with facilitator Doug.E"
+"Forgot to create dev branch before working on this assessment"
 
 
 def create_word_dict(filename):
